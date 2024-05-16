@@ -10,12 +10,12 @@ font-family: Arial, sans-serif;
 line-height: 1.6;
 }
 header {
-background-color: #191970;
+background-color: #0f0cd8;
 }
 .logo{
 width: 70px;
 border-radius: 50%;
-border:solid 2px #0cfc5c;
+border:solid 2px #c20000;
 
 margin:20px;
 }
